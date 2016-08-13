@@ -1,3 +1,7 @@
+Stanford Machine Learning Online Class at Coursera (Fall 2014)
+
+Exercise 8.
+
 Recommender Systems to predict movie ratings to the user
 
 Dataset 'ex8_movies.mat' contains movie ratings (MovieLens 100k Dataset -
